@@ -1,0 +1,2 @@
+# SHADOWSMP
+Minecraft SMP server
