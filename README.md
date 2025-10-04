@@ -1,4 +1,5 @@
-# SHADOWSMP
+# SHADOWSMP<img width="2037" height="2037" alt="minecraft_title(3)" src="https://github.com/user-attachments/assets/e0f90295-0d51-4236-acb1-7fcf96b251d4" />
+
 Minecraft SMP server
 --Live steal is on-- 
 --Craced clients can yoin
