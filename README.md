@@ -28,3 +28,5 @@ Minecraft SMP server
 <img width="99" height="27" alt="nautical_admin_rank" src="https://github.com/user-attachments/assets/ea0667d6-d960-41d5-8e13-b7a5c85a46cd" />
 
 <img width="117" height="27" alt="nautical_player_rank" src="https://github.com/user-attachments/assets/e29965cd-3db2-4943-8be3-c795b2382a06" />
+
+THE IP IS: shadowsmp.ddns.net:62605 and the port is 62605 HAVE FUN ON SHADOW.SMP
